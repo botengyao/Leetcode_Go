@@ -1,2 +1,2 @@
 # Leetcode_go
-Leetcode by Golang
+Leetcode by Go

@@ -11,7 +11,7 @@ import (
 // 	array.ThreeSumClosest(nums, 1)
 // }
 
-func main() {
+func main2() {
 	i := 0
 	anExpression := true
 	for ok := true; ok; ok = anExpression {
