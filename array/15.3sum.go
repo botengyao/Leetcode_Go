@@ -4,6 +4,7 @@ import (
 	"sort"
 )
 
+//ThreeSum ...
 func ThreeSum(nums []int) [][]int {
 	var res [][]int
 	sort.Ints(nums) // sort 之后比较大小以及方便去重

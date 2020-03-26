@@ -1,9 +1,13 @@
+/*
+Package array ...
+*/
 package array
 
 import (
 	"math"
 )
 
+//MaxArea ...
 func MaxArea(height []int) int {
 	//双指针对撞
 	// 小的一边对求最大值没有影响，需要移动。

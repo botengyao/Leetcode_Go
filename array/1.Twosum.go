@@ -1,6 +1,10 @@
+/*
+Package array ...
+*/
 package array
 
-func TwoSum(nums []int, target int) []int {
+//TwoSum ...
+func TwoSum(nums []int, target int) []int { //two sum
 	m := make(map[int]int)
 	for i := 0; i < len(nums); i++ {
 		another := target - nums[i]

@@ -1,17 +1,22 @@
+/*
+Package template implements data-driven templates for generating textual
+output such as HTML.
+....
+*/
 package main
 
 import (
-	// array "Leetcode_Go/array"
+	array "Leetcode_Go/array"
 	"fmt"
 )
 
-// func main() {
-// 	nums := []int{-1, 2, 1, -4}
-// 	fmt.Println(array.ThreeSum(nums))
-// 	array.ThreeSumClosest(nums, 1)
-// }
+func main() {
+	nums := []int{2, 3, 5}
+	res := array.CombinationSum(nums, 8) //[2 2 2 2] [2 3 3] [3 5]]
+	fmt.Println(res)
+}
 
-func main2() {
+func main3() {
 	i := 0
 	anExpression := true
 	for ok := true; ok; ok = anExpression {

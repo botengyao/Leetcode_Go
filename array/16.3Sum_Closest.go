@@ -1,3 +1,6 @@
+/*
+Package array ...
+*/
 package array
 
 import (
@@ -5,6 +8,7 @@ import (
 	"sort"
 )
 
+//ThreeSumClosest ...
 func ThreeSumClosest(nums []int, target int) int {
 	//sort
 	//和当前比较 如果大就减
