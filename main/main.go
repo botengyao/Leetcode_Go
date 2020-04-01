@@ -12,8 +12,8 @@ import (
 
 func main() {
 	nums := []int{2, 3, 5}
-	res := array.CombinationSum(nums, 8) //[2 2 2 2] [2 3 3] [3 5]]
-	fmt.Println(res)
+	fmt.Println(array.CombinationSum(nums, 8))  //[2 2 2 2] [2 3 3] [3 5]]
+	fmt.Println(array.CombinationSum2(nums, 8)) //[[2 3 3] [3 5]]
 }
 
 func main3() {
