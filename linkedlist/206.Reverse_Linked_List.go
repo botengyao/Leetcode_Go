@@ -1,12 +1,14 @@
-/**
+/*
+Package linkedlist ...
  * Definition for singly-linked list.
  * type ListNode struct {
  *     Val int
  *     Next *ListNode
  * }
- */
+*/
 package linkedlist
 
+//ListNode val and next pointer
 type ListNode struct {
 	Val  int
 	Next *ListNode
