@@ -12,8 +12,8 @@ func LargestRectangleArea(heights []int) int {
 	// 2         (1 < 2)
 	// pop(2) append(1)
 	// 1 5 6
-	// 1 5 6 2   			append到2的时候发现 (2 < 6), 此时进入另一个分支，注意这是 i已经加1
-	// 1 5 -     6 * 1      此时stack.pop()为 6， 6 * (i - stack[-1] - 1)
+	// 1 5 6 2				append到2的时候发现 (2 < 6), 此时进入另一个分支，注意这是 i已经加1
+	// 1 5 -     6 * 1		此时stack.pop()为 6， 6 * (i - stack[-1] - 1)
 	// 1 5 - 2   (2 < 5)	继续判断发现2仍然 < 5
 	// 1 - -     5 * 2		此时stack.pop()为 5， 5 * (i - stack[-1] - 1)
 	// 1 - - 2				append 2
