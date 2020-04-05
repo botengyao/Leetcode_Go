@@ -1,3 +1,15 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 # Leetcode_go
 Go solutions for Leetcode. (😁Updating) 
 
@@ -14,18 +26,19 @@ Go solutions for Leetcode. (😁Updating)
 |[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/40.Combination_sum2.go)| Medium | O($2^n$)| O(n)|||
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/53.Maximum_Subarray.go)| Medium | O(n)| O(1)||DP or CC|
 |[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/84.Largest_Rectangle_in_Histogram.go)| Hard | O(n)| O(n)|🌹|Monotonous stack|
-|[136. Single number](https://leetcode.com/problems/single-number/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/136.Single_number.go)| Easy | O(n)| O(1)|🌹|Bit manipulation|
+|[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/84.Largest_Rectangle_in_Histogram.go)| Hard | O(n)| O(n)|🌹|Monotonous stack|
+|[136. Single number](https://leetcode.com/problems/single-number/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/122.Best_Time_to_Buy_and_Sell_II.go)| Easy | O(n)| O(1)|🌹|Bit manipulation|
 |[283. Move zeros](https://leetcode.com/problems/move-zeros/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/84.Largest_Rectangle_in_Histogram.go)| Easy | O(n)| O(1)|||
 
 ## Dynamic Programing
 
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
-|[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/887.Super_Egg_Drop.go)| Hard | O($\sqrt{n}$)| O(km)|🌹||
+|[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/887.Super_Egg_Drop.go)| Hard | O($\sqrt{n}$)| O(km)|🌹||
 
 ## Linked List
 
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[202. Happy Number](https://leetcode.com/problems/happy-number/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/202.Happy_Number.go)| Easy | O(log(n)) | O(1)|🌹|Hare and tortoise|
-|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/206.Reverse_Linked_List.go)| Easy | O(n) | O(1)|||
+|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/linkedlist/206.Reverse_Linked_List.go)| Easy | O(n) | O(1)|||
