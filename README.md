@@ -33,3 +33,9 @@ Go solutions for Leetcode. (😁Updating)
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[202. Happy Number](https://leetcode.com/problems/happy-number/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/202.Happy_Number.go)| Easy | O(log(n)) | O(1)|🌹|Hare and tortoise|
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/linkedlist/206.Reverse_Linked_List.go)| Easy | O(n) | O(1)|||
+
+## String
+
+| Title | Solution | Difficulty | Time | Space | Like | Mark |
+| ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
+|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/string/49._Group_Anagrams.go)| Medium | O(nk) | O(nk)|| sort/count|
