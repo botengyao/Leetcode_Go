@@ -24,7 +24,7 @@ Go solutions for Leetcode. (😁Updating)
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/64.Minimum_Path_Sum.go)| Medium | O(mn)| O(1)|| see 174 |
-|[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/64.Minimum_Path_Sum.go)| Medium | O(mn)| O(1)|| see 174 |
+|[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/174.Dungeon_Game.go)| Hard | O(mn)| O(1)|🌹| bottom-right to top-left|
 |[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/887.Super_Egg_Drop.go)| Hard | O(n^1/2)| O(km)|🌹||
 
 ## Linked List
