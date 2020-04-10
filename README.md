@@ -39,3 +39,4 @@ Go solutions for Leetcode. (😁Updating)
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/string/49._Group_Anagrams.go)| Medium | O(nk) | O(nk)|| sort/count|
+|[844. Backspace String Compare.go](https://leetcode.com/problems/backspace-string-compare/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/string/844.Backspace_String_Compare.go)| Medium | O(n) | O(1)|| stack/pointer |
