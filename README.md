@@ -39,4 +39,10 @@ Go solutions for Leetcode. (😁Updating)
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/string/49._Group_Anagrams.go)| Medium | O(nk) | O(nk)|| sort/count|
-|[844. Backspace String Compare.go](https://leetcode.com/problems/backspace-string-compare/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/string/844.Backspace_String_Compare.go)| Medium | O(n) | O(1)|| pointer(end -> start) |
+|[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/string/844.Backspace_String_Compare.go)| Medium | O(n) | O(1)|| pointer(end -> start) |
+
+## Tree
+
+| Title | Solution | Difficulty | Time | Space | Like | Mark |
+| ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
+|[543. Diameter of Binary Tree](https://leetcode.com/problems/backspace-string-compare/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/543.Diameter_of_Binary_Tree.go)| Easy | O(n) | O(n)|||

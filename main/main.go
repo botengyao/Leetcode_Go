@@ -16,7 +16,7 @@ func main3() {
 	fmt.Println(array.CombinationSum2(nums, 8)) //[[2 3 3] [3 5]]
 }
 
-func main() {
+func main5() {
 	notdoubleCap()
 	doubleCap()
 	var stack1 []int
