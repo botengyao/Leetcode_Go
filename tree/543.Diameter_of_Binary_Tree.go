@@ -5,7 +5,7 @@ package tree
 
 /**
  * Definition for a binary tree node.
- * type TreeNode struct {
+ * type Node struct {
  *     Val int
  *     Left *TreeNode
  *     Right *TreeNode

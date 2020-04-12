@@ -45,4 +45,6 @@ Go solutions for Leetcode. (😁Updating)
 
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
+|[95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/95.Unique_Binary_Search_TreesII.go)| Medium | O(n * Gn) | O(n*Gn)||(lo, hi), DFS, Memo|
+|[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/96.Unique_Binary_Search_Trees.go)| Medium | O(n^2) | O(N)||Catalan number|
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/backspace-string-compare/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/543.Diameter_of_Binary_Tree.go)| Easy | O(n) | O(n)|||
