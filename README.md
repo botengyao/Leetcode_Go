@@ -18,6 +18,7 @@ Go solutions for Leetcode. (😁Updating)
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/122.Best_Time_to_Buy_and_Sell_II.go)| Easy | O(n)| O(1)|||
 |[136. Single number](https://leetcode.com/problems/single-number/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/122.Best_Time_to_Buy_and_Sell_II.go)| Easy | O(n)| O(1)|🌹|Bit manipulation|
 |[283. Move zeros](https://leetcode.com/problems/move-zeros/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/84.Largest_Rectangle_in_Histogram.go)| Easy | O(n)| O(1)|||
+|[525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/525.Contiguous_Array.go)| Medium | O(n)| O(n)||diff = 0|
 
 ## Dynamic Programing
 

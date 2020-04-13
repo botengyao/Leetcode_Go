@@ -53,10 +53,3 @@ func LargestRectangleArea(heights []int) int {
 	return max
 
 }
-
-func maxVal(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
