@@ -11,6 +11,7 @@ Go solutions for Leetcode. (😁Updating)
 |[11. Contaniner with most water](https://leetcode.com/problems/container-with-most-water/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/11.Container_With_Most_Water.go)| Medium| O(n)| O(1)||Two pointers (move small)|
 |[15. 3 Sum](https://leetcode.com/problems/3sum)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/15.3sum.go)| Medium | O(n^2)| O(n)|||
 |[16. 3 Sum Closest](https://leetcode.com/problems/3sum-closest)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/16.3Sum_Closest.go)| Medium | O(n^2)| O(1)|||
+|[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/33.Search_in_Rotated_Sorted_Array.go)| Medium | O(lg(n))| O(1)||Binary compare lo|
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/39.Combination_sum.go)| Medium | O(2^n)| O(n)|||
 |[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/40.Combination_sum2.go)| Medium | O(2^n)| O(n)|||
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/53.Maximum_Subarray.go)| Medium | O(n)| O(1)||DP or CC|
@@ -28,18 +29,12 @@ Go solutions for Leetcode. (😁Updating)
 |[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/174.Dungeon_Game.go)| Hard | O(mn)| O(1)|🌹| bottom-right to top-left|
 |[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/887.Super_Egg_Drop.go)| Hard | O(n^1/2)| O(km)|🌹||
 
-## Linked List
-
-| Title | Solution | Difficulty | Time | Space | Like | Mark |
-| ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
-|[202. Happy Number](https://leetcode.com/problems/happy-number/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/202.Happy_Number.go)| Easy | O(log(n)) | O(1)|🌹|Hare and tortoise|
-|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/linkedlist/206.Reverse_Linked_List.go)| Easy | O(n) | O(1)|||
-
 ## String
 
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/string/49._Group_Anagrams.go)| Medium | O(nk) | O(nk)|| sort/count|
+|[678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/string/678.Valid_Parenthesis_String.go)| Medium | O(n) | O(1)|🌹||
 |[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/string/844.Backspace_String_Compare.go)| Medium | O(n) | O(1)|| pointer(end -> start) |
 
 ## Tree
@@ -49,3 +44,13 @@ Go solutions for Leetcode. (😁Updating)
 |[95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/95.Unique_Binary_Search_TreesII.go)| Medium | O(n * Gn) | O(n*Gn)||(lo, hi), DFS, Memo|
 |[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/96.Unique_Binary_Search_Trees.go)| Medium | O(n^2) | O(N)||Catalan number|
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/backspace-string-compare/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/543.Diameter_of_Binary_Tree.go)| Easy | O(n) | O(n)|||
+|[1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/1008.Construct_Binary_Search_Tree_from_Preorde.go)| Medium | O(n) | O(n)|||
+
+
+
+## Linked List
+
+| Title | Solution | Difficulty | Time | Space | Like | Mark |
+| ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
+|[202. Happy Number](https://leetcode.com/problems/happy-number/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/202.Happy_Number.go)| Easy | O(log(n)) | O(1)|🌹|Hare and tortoise|
+|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/linkedlist/206.Reverse_Linked_List.go)| Easy | O(n) | O(1)|||
