@@ -54,3 +54,4 @@ Go solutions for Leetcode. (😁Updating)
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[202. Happy Number](https://leetcode.com/problems/happy-number/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/202.Happy_Number.go)| Easy | O(log(n)) | O(1)|🌹|Hare and tortoise|
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/linkedlist/206.Reverse_Linked_List.go)| Easy | O(n) | O(1)|||
+|[30-day First Unique Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/linkedlist/First_Unique_Number.go)| Easy | O(1) | O(1)||Double-Linked-List|
