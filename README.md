@@ -21,13 +21,7 @@ Go solutions for Leetcode. (😁Updating)
 |[283. Move zeros](https://leetcode.com/problems/move-zeros/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/84.Largest_Rectangle_in_Histogram.go)| Easy | O(n)| O(1)|||
 |[525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/525.Contiguous_Array.go)| Medium | O(n)| O(n)||diff = 0|
 
-## Dynamic Programing
 
-| Title | Solution | Difficulty | Time | Space | Like | Mark |
-| ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
-|[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/64.Minimum_Path_Sum.go)| Medium | O(mn)| O(1)|| see 174 |
-|[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/174.Dungeon_Game.go)| Hard | O(mn)| O(1)|🌹| bottom-right to top-left|
-|[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/887.Super_Egg_Drop.go)| Hard | O(n^1/2)| O(km)|🌹||
 
 ## String
 
@@ -42,10 +36,18 @@ Go solutions for Leetcode. (😁Updating)
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/95.Unique_Binary_Search_TreesII.go)| Medium | O(n * Gn) | O(n*Gn)||(lo, hi), DFS, Memo|
-|[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/96.Unique_Binary_Search_Trees.go)| Medium | O(n^2) | O(N)||Catalan number|
+|[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/96.Unique_Binary_Search_Trees.go)| Medium | O(n^2) | O(n)||Catalan number|
+|[124.Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/124.Binary_Tree_Maximum_Path_Sum.go)| Hard | O(n)) | O(h)|||
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/backspace-string-compare/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/543.Diameter_of_Binary_Tree.go)| Easy | O(n) | O(n)|||
 |[1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/1008.Construct_Binary_Search_Tree_from_Preorde.go)| Medium | O(n) | O(n)|||
 
+## Dynamic Programing
+
+| Title | Solution | Difficulty | Time | Space | Like | Mark |
+| ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
+|[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/64.Minimum_Path_Sum.go)| Medium | O(mn)| O(1)|| see 174 |
+|[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/174.Dungeon_Game.go)| Hard | O(mn)| O(1)|🌹| bottom-right to top-left|
+|[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/887.Super_Egg_Drop.go)| Hard | O(n^1/2)| O(km)|🌹||
 
 
 ## Linked List
