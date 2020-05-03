@@ -8,14 +8,14 @@ Go solutions for Leetcode. (😁Updating)
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :---: | :----------: |
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/1.Twosum.go)| Easy | O(N)| O(N)|||
-|[11. Contaniner with most water](https://leetcode.com/problems/container-with-most-water/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/11.Container_With_Most_Water.go)| Medium| O(N)| O(1)||Two pointers (move small)|
+|[11. Contaniner with most water](https://leetcode.com/problems/container-with-most-water/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/11.Container_With_Most_Water.go)| Medium| O(N)| O(1)||Two pointers (move small)|
 |[15. 3 Sum](https://leetcode.com/problems/3sum)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/15.3sum.go)| Medium | O(N^2)| O(N)|||
 |[16. 3 Sum Closest](https://leetcode.com/problems/3sum-closest)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/16.3Sum_Closest.go)| Medium | O(N^2)| O(1)|||
-|[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/33.Search_in_Rotated_Sorted_Array.go)| Medium | O(lg(N))| O(1)||Binary compare lo|
+|[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/33.Search_in_Rotated_Sorted_Array.go)| Medium | O(lg(N))| O(1)||Binary compare lo|
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/39.Combination_sum.go)| Medium | O(2^N)| O(N)|||
 |[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/40.Combination_sum2.go)| Medium | O(2^N)| O(N)|||
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/53.Maximum_Subarray.go)| Medium | O(N)| O(1)||DP or Divide|
-|[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Go solution](https://github.com/calmbryan/Leetcode_Go/blob/master/array/84.Largest_Rectangle_in_Histogram.go)| Hard | O(N)| O(N)|🌹|Monotonous stack|
+|[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/84.Largest_Rectangle_in_Histogram.go)| Hard | O(N)| O(N)|🌹|Monotonous stack|
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/122.Best_Time_to_Buy_and_Sell_II.go)| Easy | O(N)| O(1)|||
 |[136. Single number](https://leetcode.com/problems/single-number/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/122.Best_Time_to_Buy_and_Sell_II.go)| Easy | O(N)| O(1)|🌹|Bit manipulation|
 |[283. Move zeros](https://leetcode.com/problems/move-zeros/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/283.Move_Zeroes.go)| Easy | O(N)| O(1)|||
