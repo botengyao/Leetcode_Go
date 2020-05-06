@@ -81,6 +81,29 @@ var s4 = make([]int, 0) // empty slice != nil
 ```
 
 ```go
+res = append(res, s)
+*res = append(*res, s)
+```
+`*res = append(*res, s)` means that a pointer points to this slice, and the slice is a struct which has three fileds: cap, len, array. When append function is used, the base array address may be changed because a new array with big capacity is allocated. Therefore, when we pass a slice into a function as a result set, try to pass the pointer of the slice instead of the slice struct itself.
+
+```go
+This variable m is a map of string keys to int values:
+
+var m map[string]int
+
+Map types are reference types, like pointers or slices, and so the value of m above is nil; 
+it doesn't point to an initialized map. A nil map behaves like an empty map when reading, 
+but attempts to write to a nil map will cause a runtime panic; don't do that. 
+To initialize a map, use the built in make function:
+
+m = make(map[string]int)
+
+The same syntax may be used to initialize an empty map, which is functionally identical to using the make function:
+
+m = map[string]int{}
+```
+
+```go
 //https://gobyexample.com/string-functions
 package main
 
