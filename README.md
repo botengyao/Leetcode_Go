@@ -29,6 +29,7 @@ Go solutions for Leetcode. (😁Updating)
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/49._Group_Anagrams.go)| Medium | O(Nk) | O(Nk)|| sort/count|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| [Python](https://github.com/calmbryan/Leetcode_Go/blob/master/string/273.Integer_to_English_Words.py)| Hard | O(len(digits)) | O(1)|| Devide and Conquer|
+|[301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/301.Remove_Invalid_Parentheses.go)| Hard | O(N * 2^N) | O(2^N)||bt, memo, pruning|
 |[678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/678.Valid_Parenthesis_String.go)| Medium | O(N) | O(1)|🌹||
 |[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/844.Backspace_String_Compare.go)| Medium | O(N) | O(1)|| pointer(end -> start) |
 |[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)| [Python](https://github.com/calmbryan/Leetcode_Go/blob/master/string/953.Verifying_an_Alien_Dictionary.py)| Easy | O(K*N) | O(1)|||
