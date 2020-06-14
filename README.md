@@ -1,6 +1,6 @@
 
-# Leetcode_go
-Go solutions for Leetcode. (😁Updating) 
+# Leetcode_go_python
+Go and Python solutions for Leetcode. (😁Updating) 
 
 
 ## Array
