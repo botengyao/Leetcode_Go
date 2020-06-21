@@ -38,6 +38,7 @@ Go and Python solutions for Leetcode. (😁Updating)
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence)| [Python](https://github.com/calmbryan/Leetcode_Go/blob/master/permutaion/60permutation_sequence.py)| Medium | O(N^2) | O(N)|||
+|[31. Next Permutation](https://leetcode.com/problems/next-permutation/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/permutaion/31.Next_permutation.go)| Medium | O(NlogN) | O(1)|||
 
 
 ## Parentheses
