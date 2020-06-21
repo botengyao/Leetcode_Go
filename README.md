@@ -23,23 +23,35 @@ Go and Python solutions for Leetcode. (😁Updating)
 |[525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/array/525.Contiguous_Array.go)| Medium | O(N)| O(N)||diff = 0|
 
 
-
 ## String
-
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/49._Group_Anagrams.go)| Medium | O(Nk) | O(Nk)|| sort/count|
 |[67. Add Binary](https://leetcode.com/problems/add-binary/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/67.Add_Binary.go)| Easy | O(Max(N) | O(Max(N))|||
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| [Python](https://github.com/calmbryan/Leetcode_Go/blob/master/string/273.Integer_to_English_Words.py)| Hard | O(len(digits)) | O(1)|| Devide and Conquer|
-|[301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/301.Remove_Invalid_Parentheses.go)| Hard | O(N * 2^N) | O(2^N)||bt, memo, pruning|
 |[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/438.Find_All_Anagrams_in_a_String.go)| Medium | O(N) 26 | O(M)|||
-|[678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/678.Valid_Parenthesis_String.go)| Medium | O(N) | O(1)|🌹||
 |[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/844.Backspace_String_Compare.go)| Medium | O(N) | O(1)|| pointer(end -> start) |
 |[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)| [Python](https://github.com/calmbryan/Leetcode_Go/blob/master/string/953.Verifying_an_Alien_Dictionary.py)| Easy | O(K*N) | O(1)|||
+
+## Permutation
+
+| Title | Solution | Difficulty | Time | Space | Like | Mark |
+| ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
+|[60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence)| [Python](https://github.com/calmbryan/Leetcode_Go/blob/master/permutaion/60permutation_sequence.py)| Medium | O(N^2) | O(N)|||
+
+
+## Parentheses
+| Title | Solution | Difficulty | Time | Space | Like | Mark |
+| ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
+|[301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/301.Remove_Invalid_Parentheses.go)| Hard | O(N * 2^N) | O(2^N)||bt, memo, pruning|
+|[678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/678.Valid_Parenthesis_String.go)| Medium | O(N) | O(1)|🌹||
 |[1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/string/1249.Minimum_Remove_to_Make_Valid_Parentheses.go)| Medium | O(N) | O(N)||check open and close|
 
-## Tree
+## Graph
+| Title | Solution | Difficulty | Time | Space | Like | Mark |
+| ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 
+## Tree
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 |[95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/95.Unique_Binary_Search_TreesII.go)| Medium | O(N * Gn) | O(N*Gn)||(lo, hi), DFS, Memo|
@@ -56,6 +68,10 @@ Go and Python solutions for Leetcode. (😁Updating)
 |[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/64.Minimum_Path_Sum.go)| Medium | O(MN)| O(1)|| see 174 |
 |[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/174.Dungeon_Game.go)| Hard | O(MN)| O(1)|🌹| bottom-right to top-left|
 |[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/dp/887.Super_Egg_Drop.go)| Hard | O(N^1/2)| O(KM)|🌹||
+
+## DFS/Memo
+| Title | Solution | Difficulty | Time | Space | Like | Mark |
+| ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
 
 
 ## Linked List
