@@ -37,8 +37,8 @@ Go and Python solutions for Leetcode. (😁Updating)
 
 | Title | Solution | Difficulty | Time | Space | Like | Mark |
 | ----- | :--------: | :----------: | :----: | :-----: | :-----: | :----------: |
-|[60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence)| [Python](https://github.com/calmbryan/Leetcode_Go/blob/master/permutaion/60permutation_sequence.py)| Medium | O(N^2) | O(N)|||
-|[31. Next Permutation](https://leetcode.com/problems/next-permutation/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/permutaion/31.Next_permutation.go)| Medium | O(NlogN) | O(1)|||
+|[60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence)| [Python](https://github.com/calmbryan/Leetcode_Go/blob/master/permutation/60permutation_sequence.py)| Medium | O(N^2) | O(N)||right to left, (n-1)!|
+|[31. Next Permutation](https://leetcode.com/problems/next-permutation/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/permutation/31.Next_permutation.go)| Medium | O(N) | O(1)|||
 
 
 ## Parentheses
@@ -59,6 +59,7 @@ Go and Python solutions for Leetcode. (😁Updating)
 |[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/96.Unique_Binary_Search_Trees.go)| Medium | O(N^2) | O(N)||Catalan number|
 |[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/124.Binary_Tree_Maximum_Path_Sum.go)| Hard | O(N)) | O(h)|||
 |[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/199.Binary_Tree_Right_Side_View.go) [Python](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/199.Binary_Tree_Right_Side_DFS.py)| Medium | O(N)) | O(h)||BFS/DFS|
+|[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Python](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/222.Count_Complete_Tree_Nodes.py)| Medium | O(d^2)) | O(1)|🌹|bs + bs|
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/backspace-string-compare/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/543.Diameter_of_Binary_Tree.go)| Easy | O(N) | O(N)|||
 |[1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| [Go](https://github.com/calmbryan/Leetcode_Go/blob/master/tree/1008.Construct_Binary_Search_Tree_from_Preorde.go)| Medium | O(N) | O(N)|||
 
